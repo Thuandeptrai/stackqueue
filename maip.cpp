@@ -1,7 +1,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-int Ans[100];
+int Ans[10000];
 int numb = 0;
 
 void Ispalimore(string letters)
