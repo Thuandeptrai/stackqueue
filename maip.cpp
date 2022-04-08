@@ -1,5 +1,5 @@
-#include<bits/stdc++.h>
-
+#include<iostream>
+#include<string.h>
 using namespace std;
 int Ans[1000000];
 int numb = 0;
